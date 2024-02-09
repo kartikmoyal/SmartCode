@@ -13,10 +13,9 @@ SmartCode is a real-time collaborative online code editor. Users can talk usin
 
 ## Contribution
 
-- Samyak - Realtime ChatApp, website deployments
-- Harsh - Code Editor Page
-- Varsha - Landing Page
-- Rishika - Linking page
+- Harsh Dewangan - Realtime ChatApp, website deployments
+- Kritesh Moyal - Code Editor Page
+- Koyna - Landing Page
 
 ## Steps to run project on localhost
 
